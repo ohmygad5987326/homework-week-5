@@ -1,0 +1,20 @@
+{
+  "name": "hw5",
+  "version": "1.0.0",
+  "description": "desktop",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "hw5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hw5"
+  },
+  "keywords": [
+    "hw5"
+  ],
+  "author": "\"\"",
+  "license": "ISC"
+}
